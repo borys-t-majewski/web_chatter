@@ -15,7 +15,7 @@ OPENAI_API_KEY=sk-proj-....
 
 3. Optional: Adjust model parameters in constants.py:
 
-TEMPERATURE = 0.2git 
+TEMPERATURE = 0.2
 
 model = "gpt-4o-mini"
 
