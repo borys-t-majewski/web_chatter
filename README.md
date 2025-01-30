@@ -1,4 +1,11 @@
+
+
 # Security Chatbot
+
+## Made for Hackathon: Agenton 2025
+
+Task outline:
+In an increasingly connected world, conversations—whether online or over the phone—can often become avenues for social engineering attacks and data exploitation. The "Conversational Security Agent" task seeks to educate users on the subtle risks posed by seemingly innocuous conversations while empowering them to identify and resist social engineering tactics in real-world scenarios.
 
 ## Setup & Installation
 
@@ -25,4 +32,4 @@ It's expected to run well in gpt-4o-mini or better, and only supports open ai mo
 
 2. Open http://localhost:5000 in your browser
 
-3. Click 
+3. Follow the instructions below chatbot to interact with it.
